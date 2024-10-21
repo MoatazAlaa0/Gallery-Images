@@ -13,3 +13,8 @@ This is a simple and modern responsive image gallery built with React.js and Tai
 ## Technologies Used
 - **React.js**: JavaScript library for building user interfaces.
 - **Tailwind CSS**: Utility-first CSS framework for styling.
+
+## To run the application locally you should follow the following instructors 
+1- cd React-Project 
+2- npm i 
+3- npm run dev 
